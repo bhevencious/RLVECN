@@ -1,0 +1,1925 @@
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 1976.6062760353088 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.05; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.98
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98      1621
+           1       0.99      1.00      0.99      2170
+
+   micro avg       0.99      0.98      0.99      3791
+   macro avg       0.99      0.98      0.98      3791
+weighted avg       0.99      0.98      0.99      3791
+ samples avg       0.98      0.98      0.98      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 1906.2126953601837 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.03; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 0.99
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99      1986
+           1       1.00      0.99      0.99      1897
+
+   micro avg       1.00      0.98      0.99      3883
+   macro avg       1.00      0.98      0.99      3883
+weighted avg       1.00      0.98      0.99      3883
+ samples avg       0.98      0.98      0.98      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 31.99893546104431 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.36; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.44; Accuracy: 0.95; Cat. Accuracy: 0.95
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.94
+1: 	 0.93 		 0.92
+              precision    recall  f1-score   support
+
+           0       1.00      0.89      0.94        18
+           1       0.90      1.00      0.95        26
+
+   micro avg       0.93      0.95      0.94        44
+   macro avg       0.95      0.94      0.94        44
+weighted avg       0.94      0.95      0.94        44
+ samples avg       0.94      0.95      0.95        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 216.93335700035095 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.29; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.43; Accuracy: 0.89; Cat. Accuracy: 0.89
+class 	 accuracy 	 roc_score
+0: 	 0.89 		 0.82
+1: 	 0.89 		 0.82
+              precision    recall  f1-score   support
+
+           0       1.00      0.63      0.78       128
+           1       0.86      1.00      0.92       281
+
+   micro avg       0.89      0.89      0.89       409
+   macro avg       0.93      0.82      0.85       409
+weighted avg       0.90      0.89      0.88       409
+ samples avg       0.89      0.89      0.89       409
+
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2331.3664786815643 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.04; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.98
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98      1621
+           1       0.99      1.00      0.99      2170
+
+   micro avg       0.99      0.98      0.99      3791
+   macro avg       1.00      0.98      0.99      3791
+weighted avg       0.99      0.98      0.99      3791
+ samples avg       0.98      0.98      0.98      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 2333.381112098694 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.04; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 0.99
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99      1986
+           1       0.99      1.00      0.99      1897
+
+   micro avg       1.00      0.99      0.99      3883
+   macro avg       1.00      0.99      0.99      3883
+weighted avg       1.00      0.99      0.99      3883
+ samples avg       0.99      0.99      0.99      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 37.05327367782593 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.38; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.55; Accuracy: 0.84; Cat. Accuracy: 0.84
+class 	 accuracy 	 roc_score
+0: 	 0.84 		 0.81
+1: 	 0.73 		 0.67
+              precision    recall  f1-score   support
+
+           0       1.00      0.61      0.76        18
+           1       0.68      1.00      0.81        26
+
+   micro avg       0.76      0.84      0.80        44
+   macro avg       0.84      0.81      0.79        44
+weighted avg       0.81      0.84      0.79        44
+ samples avg       0.78      0.84      0.80        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 254.3562262058258 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.29; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.44; Accuracy: 0.87; Cat. Accuracy: 0.87
+class 	 accuracy 	 roc_score
+0: 	 0.87 		 0.79
+1: 	 0.87 		 0.79
+              precision    recall  f1-score   support
+
+           0       1.00      0.59      0.74       128
+           1       0.84      1.00      0.91       281
+
+   micro avg       0.87      0.87      0.87       409
+   macro avg       0.92      0.79      0.82       409
+weighted avg       0.89      0.87      0.86       409
+ samples avg       0.87      0.87      0.87       409
+
+
+
+----RLVECN_Node_Clsftn: Cora----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1678.1430447101593 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.35; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.75; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.90
+1: 	 0.98 		 0.94
+2: 	 0.96 		 0.88
+3: 	 0.95 		 0.92
+4: 	 0.93 		 0.84
+5: 	 0.97 		 0.94
+6: 	 0.95 		 0.87
+              precision    recall  f1-score   support
+
+           0       0.82      0.86      0.84       541
+           1       0.80      0.89      0.84       134
+           2       0.78      0.78      0.78       214
+           3       0.88      0.87      0.88       405
+           4       0.74      0.71      0.73       294
+           5       0.91      0.89      0.90       345
+           6       0.81      0.77      0.79       237
+
+   micro avg       0.83      0.83      0.83      2170
+   macro avg       0.82      0.82      0.82      2170
+weighted avg       0.83      0.83      0.83      2170
+ samples avg       0.82      0.83      0.82      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2450.7370960712433 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.29; Accuracy: 0.90; Cat. Accuracy: 0.90
+VALIDATION --- Cat. CrossEnt.: 0.83; Accuracy: 0.76; Cat. Accuracy: 0.76
+class 	 accuracy 	 roc_score
+0: 	 0.71 		 0.66
+1: 	 0.81 		 0.78
+              precision    recall  f1-score   support
+
+           0       1.00      0.33      0.49      1621
+           1       0.75      1.00      0.86      2170
+
+   micro avg       0.79      0.71      0.75      3791
+   macro avg       0.87      0.66      0.67      3791
+weighted avg       0.86      0.71      0.70      3791
+ samples avg       0.71      0.71      0.71      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+
+
+----RLVECN_Link_Pred: Cora----
+
+
+----RLVECN_Link_Pred: Cora----
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2394.311859369278 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.06; Accuracy: 0.98; Cat. Accuracy: 0.98
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.98
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98      1621
+           1       0.98      0.99      0.99      2170
+
+   micro avg       0.99      0.98      0.98      3791
+   macro avg       0.99      0.98      0.98      3791
+weighted avg       0.99      0.98      0.98      3791
+ samples avg       0.98      0.98      0.98      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 2355.731302499771 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.24; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.74; Accuracy: 0.78; Cat. Accuracy: 0.78
+class 	 accuracy 	 roc_score
+0: 	 0.75 		 0.76
+1: 	 0.81 		 0.82
+              precision    recall  f1-score   support
+
+           0       1.00      0.51      0.68      1986
+           1       0.72      1.00      0.84      1897
+
+   micro avg       0.80      0.75      0.78      3883
+   macro avg       0.86      0.76      0.76      3883
+weighted avg       0.86      0.75      0.76      3883
+ samples avg       0.75      0.75      0.75      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 37.89810514450073 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.31; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.45; Accuracy: 0.93; Cat. Accuracy: 0.93
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.92
+1: 	 0.93 		 0.92
+              precision    recall  f1-score   support
+
+           0       1.00      0.83      0.91        18
+           1       0.90      1.00      0.95        26
+
+   micro avg       0.93      0.93      0.93        44
+   macro avg       0.95      0.92      0.93        44
+weighted avg       0.94      0.93      0.93        44
+ samples avg       0.93      0.93      0.93        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 257.14872312545776 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.29; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.43; Accuracy: 0.89; Cat. Accuracy: 0.89
+class 	 accuracy 	 roc_score
+0: 	 0.89 		 0.82
+1: 	 0.90 		 0.84
+              precision    recall  f1-score   support
+
+           0       1.00      0.65      0.79       128
+           1       0.87      1.00      0.93       281
+
+   micro avg       0.90      0.89      0.89       409
+   macro avg       0.93      0.82      0.86       409
+weighted avg       0.91      0.89      0.89       409
+ samples avg       0.89      0.89      0.89       409
+
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2194.198393344879 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.01; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.07; Accuracy: 0.98; Cat. Accuracy: 0.98
+class 	 accuracy 	 roc_score
+0: 	 0.97 		 0.97
+1: 	 0.99 		 0.98
+              precision    recall  f1-score   support
+
+           0       1.00      0.93      0.97      1621
+           1       0.98      1.00      0.99      2170
+
+   micro avg       0.99      0.97      0.98      3791
+   macro avg       0.99      0.97      0.98      3791
+weighted avg       0.99      0.97      0.98      3791
+ samples avg       0.97      0.97      0.97      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 2163.4440565109253 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.01; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.04; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 0.99
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99      1986
+           1       0.99      1.00      0.99      1897
+
+   micro avg       0.99      0.99      0.99      3883
+   macro avg       0.99      0.99      0.99      3883
+weighted avg       0.99      0.99      0.99      3883
+ samples avg       0.99      0.99      0.99      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 31.867887496948242 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.30; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.39; Accuracy: 0.95; Cat. Accuracy: 0.95
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.94
+1: 	 0.95 		 0.94
+              precision    recall  f1-score   support
+
+           0       1.00      0.89      0.94        18
+           1       0.93      1.00      0.96        26
+
+   micro avg       0.95      0.95      0.95        44
+   macro avg       0.96      0.94      0.95        44
+weighted avg       0.96      0.95      0.95        44
+ samples avg       0.95      0.95      0.95        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 224.73413181304932 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.27; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.43; Accuracy: 0.86; Cat. Accuracy: 0.86
+class 	 accuracy 	 roc_score
+0: 	 0.86 		 0.78
+1: 	 0.87 		 0.79
+              precision    recall  f1-score   support
+
+           0       1.00      0.55      0.71       128
+           1       0.84      1.00      0.91       281
+
+   micro avg       0.86      0.86      0.86       409
+   macro avg       0.92      0.78      0.81       409
+weighted avg       0.89      0.86      0.85       409
+ samples avg       0.86      0.86      0.86       409
+
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2570.195991039276 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.00; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.04; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.98
+1: 	 0.99 		 0.99
+              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98      1621
+           1       0.99      1.00      0.99      2170
+
+   micro avg       0.99      0.98      0.99      3791
+   macro avg       0.99      0.98      0.99      3791
+weighted avg       0.99      0.98      0.99      3791
+ samples avg       0.98      0.98      0.98      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 2561.804607152939 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.00; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.01; Accuracy: 1.00; Cat. Accuracy: 1.00
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 0.99
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99      1986
+           1       1.00      1.00      1.00      1897
+
+   micro avg       1.00      0.99      1.00      3883
+   macro avg       1.00      0.99      1.00      3883
+weighted avg       1.00      0.99      1.00      3883
+ samples avg       0.99      0.99      0.99      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 39.406402826309204 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.35; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.54; Accuracy: 0.75; Cat. Accuracy: 0.75
+class 	 accuracy 	 roc_score
+0: 	 0.77 		 0.72
+1: 	 0.75 		 0.69
+              precision    recall  f1-score   support
+
+           0       1.00      0.44      0.62        18
+           1       0.70      1.00      0.83        26
+
+   micro avg       0.76      0.77      0.76        44
+   macro avg       0.85      0.72      0.72        44
+weighted avg       0.82      0.77      0.74        44
+ samples avg       0.74      0.77      0.75        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 268.8002460002899 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.22; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.39; Accuracy: 0.88; Cat. Accuracy: 0.88
+class 	 accuracy 	 roc_score
+0: 	 0.88 		 0.80
+1: 	 0.89 		 0.82
+              precision    recall  f1-score   support
+
+           0       1.00      0.61      0.76       128
+           1       0.86      1.00      0.93       281
+
+   micro avg       0.89      0.88      0.88       409
+   macro avg       0.93      0.80      0.84       409
+weighted avg       0.91      0.88      0.87       409
+ samples avg       0.88      0.88      0.88       409
+
+
+
+----RLVECN_Link_Pred: Cora----
+Training Time: 2543.6309945583344 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.02; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.04; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.98
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      0.95      0.98      1621
+           1       0.99      1.00      1.00      2170
+
+   micro avg       1.00      0.98      0.99      3791
+   macro avg       1.00      0.98      0.99      3791
+weighted avg       1.00      0.98      0.99      3791
+ samples avg       0.98      0.98      0.98      3791
+
+
+
+----RLVECN_Link_Pred: CiteSeer----
+Training Time: 2561.804607152939 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.00; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.01; Accuracy: 1.00; Cat. Accuracy: 1.00
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 0.99
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99      1986
+           1       1.00      1.00      1.00      1897
+
+   micro avg       1.00      0.99      1.00      3883
+   macro avg       1.00      0.99      1.00      3883
+weighted avg       1.00      0.99      1.00      3883
+ samples avg       0.99      0.99      0.99      3883
+
+
+
+----RLVECN_Link_Pred: Zachary-Karate----
+Training Time: 27.974947214126587 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.30; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.36; Accuracy: 0.98; Cat. Accuracy: 0.98
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.97
+1: 	 0.98 		 0.97
+              precision    recall  f1-score   support
+
+           0       1.00      0.94      0.97        18
+           1       0.96      1.00      0.98        26
+
+   micro avg       0.98      0.98      0.98        44
+   macro avg       0.98      0.97      0.98        44
+weighted avg       0.98      0.98      0.98        44
+ samples avg       0.98      0.98      0.98        44
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 268.8002460002899 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.22; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.39; Accuracy: 0.88; Cat. Accuracy: 0.88
+class 	 accuracy 	 roc_score
+0: 	 0.88 		 0.80
+1: 	 0.89 		 0.82
+              precision    recall  f1-score   support
+
+           0       1.00      0.61      0.76       128
+           1       0.86      1.00      0.93       281
+
+   micro avg       0.89      0.88      0.88       409
+   macro avg       0.93      0.80      0.84       409
+weighted avg       0.91      0.88      0.87       409
+ samples avg       0.88      0.88      0.88       409
+
+
+
+----RLVECN_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 140.56395936012268 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.35; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.48; Accuracy: 0.88; Cat. Accuracy: 0.88
+class 	 accuracy 	 roc_score
+0: 	 0.88 		 0.81
+1: 	 0.88 		 0.80
+              precision    recall  f1-score   support
+
+           0       1.00      0.62      0.76       128
+           1       0.85      1.00      0.92       281
+
+   micro avg       0.88      0.88      0.88       409
+   macro avg       0.92      0.81      0.84       409
+weighted avg       0.90      0.88      0.87       409
+ samples avg       0.88      0.88      0.88       409
+
+
+
+----KGEmbeds_Link_Pred: Internet-Industry-Partnerships----
+
+
+----KGEmbeds_Link_Pred: Internet-Industry-Partnerships----
+
+
+
+----KGEmbeds_Link_Pred: Cora----
+Training Time: 6.652283668518066 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.54; Accuracy: 0.69; Cat. Accuracy: 0.69
+VALIDATION --- Cat. CrossEnt.: 0.62; Accuracy: 0.61; Cat. Accuracy: 0.61
+class 	 accuracy 	 roc_score
+0: 	 0.57 		 0.54
+1: 	 0.60 		 0.57
+              precision    recall  f1-score   support
+
+           0       0.49      0.36      0.41      1621
+           1       0.62      0.75      0.68      2170
+
+   micro avg       0.58      0.58      0.58      3791
+   macro avg       0.56      0.55      0.55      3791
+weighted avg       0.57      0.58      0.57      3791
+ samples avg       0.45      0.58      0.50      3791
+
+
+
+----KGEmbeds_Link_Pred: CiteSeer----
+Training Time: 6.30672812461853 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.56; Accuracy: 0.68; Cat. Accuracy: 0.68
+VALIDATION --- Cat. CrossEnt.: 0.59; Accuracy: 0.63; Cat. Accuracy: 0.63
+class 	 accuracy 	 roc_score
+0: 	 0.63 		 0.63
+1: 	 0.55 		 0.56
+              precision    recall  f1-score   support
+
+           0       0.65      0.57      0.61      1986
+           1       0.54      0.62      0.58      1897
+
+   micro avg       0.59      0.59      0.59      3883
+   macro avg       0.60      0.60      0.59      3883
+weighted avg       0.60      0.59      0.59      3883
+ samples avg       0.46      0.59      0.50      3883
+
+
+
+----KGEmbeds_Link_Pred: Zachary-Karate----
+Training Time: 1.4063076972961426 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.69; Accuracy: 0.58; Cat. Accuracy: 0.58
+VALIDATION --- Cat. CrossEnt.: 0.69; Accuracy: 0.61; Cat. Accuracy: 0.61
+class 	 accuracy 	 roc_score
+0: 	 0.30 		 0.27
+1: 	 0.61 		 0.60
+              precision    recall  f1-score   support
+
+           0       0.12      0.11      0.11        18
+           1       0.67      0.69      0.68        26
+
+   micro avg       0.45      0.45      0.45        44
+   macro avg       0.39      0.40      0.40        44
+weighted avg       0.44      0.45      0.45        44
+ samples avg       0.28      0.45      0.34        44
+
+
+
+----KGEmbeds_Link_Pred: Internet-Industry-Partnerships----
+Training Time: 1.8879508972167969 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.56; Accuracy: 0.74; Cat. Accuracy: 0.74
+VALIDATION --- Cat. CrossEnt.: 0.55; Accuracy: 0.74; Cat. Accuracy: 0.74
+class 	 accuracy 	 roc_score
+0: 	 0.67 		 0.66
+1: 	 0.57 		 0.56
+              precision    recall  f1-score   support
+
+           0       0.48      0.62      0.54       128
+           1       0.73      0.60      0.66       281
+
+   micro avg       0.63      0.61      0.62       409
+   macro avg       0.61      0.61      0.60       409
+weighted avg       0.65      0.61      0.62       409
+ samples avg       0.48      0.61      0.53       409
+
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1632.6375048160553 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.46; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.80; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.91
+1: 	 0.98 		 0.93
+2: 	 0.96 		 0.87
+3: 	 0.95 		 0.91
+4: 	 0.92 		 0.85
+5: 	 0.97 		 0.93
+6: 	 0.95 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.86       541
+           1       0.76      0.89      0.82       134
+           2       0.79      0.77      0.78       214
+           3       0.87      0.86      0.86       405
+           4       0.71      0.74      0.72       294
+           5       0.90      0.88      0.89       345
+           6       0.77      0.78      0.78       237
+
+   micro avg       0.82      0.83      0.83      2170
+   macro avg       0.81      0.83      0.82      2170
+weighted avg       0.82      0.83      0.83      2170
+ samples avg       0.82      0.83      0.83      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 2375.7329754829407 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.32; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.76; Accuracy: 0.82; Cat. Accuracy: 0.82
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.90
+1: 	 0.98 		 0.95
+2: 	 0.96 		 0.87
+3: 	 0.95 		 0.91
+4: 	 0.92 		 0.83
+5: 	 0.97 		 0.93
+6: 	 0.95 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.84      0.84      0.84       541
+           1       0.80      0.91      0.85       134
+           2       0.80      0.77      0.78       214
+           3       0.88      0.84      0.86       405
+           4       0.72      0.71      0.72       294
+           5       0.90      0.88      0.89       345
+           6       0.78      0.78      0.78       237
+
+   micro avg       0.83      0.82      0.82      2170
+   macro avg       0.82      0.82      0.82      2170
+weighted avg       0.83      0.82      0.82      2170
+ samples avg       0.82      0.82      0.82      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1633.0088715553284 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.48; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.82; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.90
+1: 	 0.97 		 0.94
+2: 	 0.96 		 0.87
+3: 	 0.95 		 0.92
+4: 	 0.92 		 0.85
+5: 	 0.97 		 0.93
+6: 	 0.95 		 0.87
+              precision    recall  f1-score   support
+
+           0       0.86      0.84      0.85       541
+           1       0.74      0.90      0.81       134
+           2       0.79      0.77      0.78       214
+           3       0.87      0.87      0.87       405
+           4       0.71      0.74      0.72       294
+           5       0.91      0.88      0.90       345
+           6       0.80      0.76      0.78       237
+
+   micro avg       0.83      0.82      0.83      2170
+   macro avg       0.81      0.82      0.81      2170
+weighted avg       0.83      0.82      0.83      2170
+ samples avg       0.82      0.82      0.82      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+Training Time: 1395.6422579288483 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.53; Accuracy: 0.89; Cat. Accuracy: 0.89
+VALIDATION --- Cat. CrossEnt.: 0.96; Accuracy: 0.74; Cat. Accuracy: 0.74
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.88
+1: 	 0.88 		 0.87
+2: 	 0.90 		 0.85
+3: 	 0.93 		 0.77
+4: 	 0.96 		 0.88
+5: 	 0.88 		 0.76
+              precision    recall  f1-score   support
+
+           0       0.76      0.82      0.79       304
+           1       0.81      0.84      0.82       609
+           2       0.75      0.76      0.76       377
+           3       0.40      0.60      0.48       107
+           4       0.87      0.77      0.82       225
+           5       0.58      0.60      0.59       275
+
+   micro avg       0.73      0.76      0.75      1897
+   macro avg       0.69      0.73      0.71      1897
+weighted avg       0.74      0.76      0.75      1897
+ samples avg       0.74      0.76      0.75      1897
+
+
+
+----RLVECN_Node_Clsftn: Zachary-Karate----
+Training Time: 28.311697721481323 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.84; Accuracy: 0.84; Cat. Accuracy: 0.84
+VALIDATION --- Cat. CrossEnt.: 1.07; Accuracy: 0.54; Cat. Accuracy: 0.54
+class 	 accuracy 	 roc_score
+0: 	 1.00 		 1.00
+1: 	 0.81 		 0.83
+2: 	 0.69 		 0.83
+3: 	 0.62 		 0.58
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         3
+           1       0.67      0.89      0.76         9
+           2       0.20      1.00      0.33         2
+           3       1.00      0.17      0.29        12
+
+   micro avg       0.56      0.58      0.57        26
+   macro avg       0.72      0.76      0.60        26
+weighted avg       0.82      0.58      0.54        26
+ samples avg       0.56      0.58      0.56        26
+
+
+
+----RLVECN_Node_Clsftn: Internet-Industry-Partnerships----
+Training Time: 184.41139602661133 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.74; Accuracy: 0.87; Cat. Accuracy: 0.87
+VALIDATION --- Cat. CrossEnt.: 0.94; Accuracy: 0.73; Cat. Accuracy: 0.73
+class 	 accuracy 	 roc_score
+0: 	 0.82 		 0.74
+1: 	 0.78 		 0.76
+2: 	 0.79 		 0.78
+              precision    recall  f1-score   support
+
+           0       0.29      0.65      0.40        26
+           1       0.94      0.79      0.86       238
+           2       0.19      0.76      0.30        17
+
+   micro avg       0.66      0.78      0.72       281
+   macro avg       0.47      0.74      0.52       281
+weighted avg       0.83      0.78      0.78       281
+ samples avg       0.72      0.78      0.74       281
+
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1685.8285212516785 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.21; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.75; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.90
+1: 	 0.97 		 0.92
+2: 	 0.96 		 0.88
+3: 	 0.95 		 0.90
+4: 	 0.93 		 0.85
+5: 	 0.97 		 0.93
+6: 	 0.95 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.86      0.84      0.85       541
+           1       0.75      0.87      0.80       134
+           2       0.80      0.79      0.79       214
+           3       0.88      0.83      0.85       405
+           4       0.72      0.75      0.73       294
+           5       0.91      0.88      0.89       345
+           6       0.80      0.78      0.79       237
+
+   micro avg       0.83      0.82      0.83      2170
+   macro avg       0.81      0.82      0.82      2170
+weighted avg       0.83      0.82      0.83      2170
+ samples avg       0.82      0.82      0.82      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1642.5389683246613 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.49; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.81; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.90
+1: 	 0.97 		 0.95
+2: 	 0.96 		 0.87
+3: 	 0.95 		 0.91
+4: 	 0.92 		 0.85
+5: 	 0.97 		 0.94
+6: 	 0.95 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.85      0.85      0.85       541
+           1       0.73      0.93      0.82       134
+           2       0.78      0.77      0.78       214
+           3       0.84      0.87      0.86       405
+           4       0.71      0.74      0.73       294
+           5       0.91      0.90      0.90       345
+           6       0.80      0.78      0.79       237
+
+   micro avg       0.82      0.83      0.83      2170
+   macro avg       0.80      0.83      0.82      2170
+weighted avg       0.82      0.83      0.83      2170
+ samples avg       0.82      0.83      0.83      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1592.4134075641632 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.89; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 1.07; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.90
+1: 	 0.97 		 0.96
+2: 	 0.96 		 0.90
+3: 	 0.95 		 0.92
+4: 	 0.92 		 0.85
+5: 	 0.97 		 0.94
+6: 	 0.95 		 0.89
+              precision    recall  f1-score   support
+
+           0       0.85      0.85      0.85       541
+           1       0.72      0.94      0.82       134
+           2       0.75      0.83      0.79       214
+           3       0.87      0.87      0.87       405
+           4       0.71      0.74      0.73       294
+           5       0.91      0.90      0.90       345
+           6       0.78      0.80      0.79       237
+
+   micro avg       0.81      0.85      0.83      2170
+   macro avg       0.80      0.85      0.82      2170
+weighted avg       0.82      0.85      0.83      2170
+ samples avg       0.83      0.85      0.84      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1669.0863811969757 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.48; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.78; Accuracy: 0.84; Cat. Accuracy: 0.84
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.90
+1: 	 0.98 		 0.96
+2: 	 0.96 		 0.90
+3: 	 0.95 		 0.92
+4: 	 0.93 		 0.85
+5: 	 0.97 		 0.95
+6: 	 0.96 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.85       541
+           1       0.80      0.93      0.86       134
+           2       0.80      0.82      0.81       214
+           3       0.88      0.87      0.88       405
+           4       0.72      0.75      0.73       294
+           5       0.90      0.91      0.91       345
+           6       0.80      0.79      0.80       237
+
+   micro avg       0.83      0.85      0.84      2170
+   macro avg       0.82      0.85      0.83      2170
+weighted avg       0.83      0.85      0.84      2170
+ samples avg       0.84      0.85      0.84      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1663.625055551529 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.35; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.72; Accuracy: 0.84; Cat. Accuracy: 0.84
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.91
+1: 	 0.98 		 0.96
+2: 	 0.96 		 0.89
+3: 	 0.95 		 0.92
+4: 	 0.93 		 0.85
+5: 	 0.97 		 0.94
+6: 	 0.96 		 0.89
+              precision    recall  f1-score   support
+
+           0       0.85      0.87      0.86       541
+           1       0.81      0.93      0.87       134
+           2       0.79      0.81      0.80       214
+           3       0.88      0.87      0.87       405
+           4       0.72      0.74      0.73       294
+           5       0.91      0.90      0.90       345
+           6       0.80      0.80      0.80       237
+
+   micro avg       0.83      0.85      0.84      2170
+   macro avg       0.82      0.85      0.83      2170
+weighted avg       0.83      0.85      0.84      2170
+ samples avg       0.84      0.85      0.84      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+
+
+----RLVECN_Node_Clsftn: Cora----
+Training Time: 1697.7690572738647 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.49; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.78; Accuracy: 0.84; Cat. Accuracy: 0.84
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.90
+1: 	 0.98 		 0.96
+2: 	 0.96 		 0.90
+3: 	 0.95 		 0.92
+4: 	 0.93 		 0.85
+5: 	 0.97 		 0.95
+6: 	 0.96 		 0.88
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.86       541
+           1       0.78      0.93      0.85       134
+           2       0.80      0.81      0.81       214
+           3       0.88      0.87      0.87       405
+           4       0.72      0.75      0.74       294
+           5       0.90      0.91      0.91       345
+           6       0.81      0.78      0.79       237
+
+   micro avg       0.83      0.85      0.84      2170
+   macro avg       0.82      0.85      0.83      2170
+weighted avg       0.83      0.85      0.84      2170
+ samples avg       0.84      0.85      0.84      2170
+
+
+
+----RLVECN_Node_Clsftn: CiteSeer----
+Training Time: 1450.2573072910309 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.52; Accuracy: 0.90; Cat. Accuracy: 0.90
+VALIDATION --- Cat. CrossEnt.: 0.92; Accuracy: 0.76; Cat. Accuracy: 0.76
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.90
+1: 	 0.88 		 0.87
+2: 	 0.92 		 0.87
+3: 	 0.93 		 0.78
+4: 	 0.96 		 0.89
+5: 	 0.89 		 0.79
+              precision    recall  f1-score   support
+
+           0       0.76      0.84      0.80       304
+           1       0.81      0.83      0.82       609
+           2       0.78      0.79      0.79       377
+           3       0.43      0.60      0.50       107
+           4       0.88      0.79      0.83       225
+           5       0.60      0.65      0.63       275
+
+   micro avg       0.75      0.78      0.76      1897
+   macro avg       0.71      0.75      0.73      1897
+weighted avg       0.75      0.78      0.77      1897
+ samples avg       0.76      0.78      0.77      1897
+
+
+
+----RLVECN_Node_Clsftn: Zachary-Karate----
+Training Time: 29.91411519050598 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.88; Accuracy: 0.83; Cat. Accuracy: 0.83
+VALIDATION --- Cat. CrossEnt.: 1.03; Accuracy: 0.58; Cat. Accuracy: 0.58
+class 	 accuracy 	 roc_score
+0: 	 1.00 		 1.00
+1: 	 0.81 		 0.83
+2: 	 0.69 		 0.83
+3: 	 0.77 		 0.75
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         3
+           1       0.67      0.89      0.76         9
+           2       0.20      1.00      0.33         2
+           3       1.00      0.50      0.67        12
+
+   micro avg       0.61      0.73      0.67        26
+   macro avg       0.72      0.85      0.69        26
+weighted avg       0.82      0.73      0.71        26
+ samples avg       0.63      0.73      0.67        26
+
+
+
+----RLVECN_Node_Clsftn: Internet-Industry-Partnerships----
+Training Time: 192.13593649864197 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.72; Accuracy: 0.87; Cat. Accuracy: 0.87
+VALIDATION --- Cat. CrossEnt.: 0.90; Accuracy: 0.75; Cat. Accuracy: 0.75
+class 	 accuracy 	 roc_score
+0: 	 0.84 		 0.75
+1: 	 0.79 		 0.81
+2: 	 0.84 		 0.86
+              precision    recall  f1-score   support
+
+           0       0.31      0.65      0.43        26
+           1       0.96      0.78      0.86       238
+           2       0.26      0.88      0.40        17
+
+   micro avg       0.71      0.78      0.74       281
+   macro avg       0.51      0.77      0.56       281
+weighted avg       0.86      0.78      0.79       281
+ samples avg       0.74      0.78      0.75       281
+
+
+
+----RLVECN_Node_Clsftn: Zachary-Karate----
+Training Time: 12.92978835105896 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.78; Accuracy: 0.83; Cat. Accuracy: 0.83
+VALIDATION --- Cat. CrossEnt.: 0.96; Accuracy: 0.58; Cat. Accuracy: 0.58
+class 	 accuracy 	 roc_score
+0: 	 0.96 		 0.98
+1: 	 0.81 		 0.83
+2: 	 0.65 		 0.81
+3: 	 0.81 		 0.79
+              precision    recall  f1-score   support
+
+           0       0.75      1.00      0.86         3
+           1       0.67      0.89      0.76         9
+           2       0.18      1.00      0.31         2
+           3       1.00      0.58      0.74        12
+
+   micro avg       0.59      0.77      0.67        26
+   macro avg       0.65      0.87      0.67        26
+weighted avg       0.79      0.77      0.73        26
+ samples avg       0.62      0.77      0.67        26
+
+
+
+----RLVECN_Node_Clsftn: Internet-Industry-Partnerships----
+Training Time: 703.6954834461212 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.48; Accuracy: 0.88; Cat. Accuracy: 0.88
+VALIDATION --- Cat. CrossEnt.: 0.97; Accuracy: 0.76; Cat. Accuracy: 0.76
+class 	 accuracy 	 roc_score
+0: 	 0.84 		 0.76
+1: 	 0.78 		 0.81
+2: 	 0.87 		 0.82
+              precision    recall  f1-score   support
+
+           0       0.33      0.65      0.44        26
+           1       0.96      0.77      0.86       238
+           2       0.29      0.76      0.42        17
+
+   micro avg       0.74      0.76      0.75       281
+   macro avg       0.53      0.73      0.57       281
+weighted avg       0.86      0.76      0.79       281
+ samples avg       0.75      0.76      0.75       281
+
+
+
+----TransE: Cora----
+Training Time: 26.477449655532837 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.42 		 0.50
+
+
+----RandomBaseline: Cora----
+Training Time: 24.12472105026245 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.42 		 0.50
+
+
+----ComplEx: Cora----
+Training Time: 46.356109380722046 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.90 		 0.92
+1: 	 0.90 		 0.92
+              precision    recall  f1-score   support
+
+           0       0.81      1.00      0.90      1507
+           1       1.00      0.84      0.91      2110
+
+   micro avg       0.90      0.90      0.90      3617
+   macro avg       0.91      0.92      0.90      3617
+weighted avg       0.92      0.90      0.91      3617
+ samples avg       0.90      0.90      0.90      3617
+
+
+
+----ConvKB: Cora----
+Training Time: 192.31239938735962 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.90 		 0.91
+1: 	 0.90 		 0.91
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89      1507
+           1       1.00      0.83      0.90      2110
+
+   micro avg       0.90      0.90      0.90      3617
+   macro avg       0.90      0.91      0.90      3617
+weighted avg       0.92      0.90      0.90      3617
+ samples avg       0.90      0.90      0.90      3617
+
+
+
+----DistMult: Cora----
+Training Time: 25.192970752716064 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.91 		 0.93
+1: 	 0.91 		 0.93
+              precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91      1507
+           1       1.00      0.85      0.92      2110
+
+   micro avg       0.91      0.91      0.91      3617
+   macro avg       0.91      0.93      0.91      3617
+weighted avg       0.93      0.91      0.91      3617
+ samples avg       0.91      0.91      0.91      3617
+
+
+
+----HolE: Cora----
+Training Time: 49.116028785705566 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.86 		 0.84
+1: 	 0.86 		 0.84
+              precision    recall  f1-score   support
+
+           0       0.92      0.73      0.81      1507
+           1       0.83      0.95      0.89      2110
+
+   micro avg       0.86      0.86      0.86      3617
+   macro avg       0.87      0.84      0.85      3617
+weighted avg       0.87      0.86      0.86      3617
+ samples avg       0.86      0.86      0.86      3617
+
+
+
+----RandomBaseline: Cora----
+Training Time: 0.7011492252349854 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.58 		 0.50
+1: 	 0.58 		 0.50
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1507
+           1       0.58      1.00      0.74      2110
+
+   micro avg       0.58      0.58      0.58      3617
+   macro avg       0.29      0.50      0.37      3617
+weighted avg       0.34      0.58      0.43      3617
+ samples avg       0.58      0.58      0.58      3617
+
+
+
+----ComplEx: CiteSeer----
+Training Time: 54.56145882606506 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.94
+1: 	 0.93 		 0.94
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.93      1659
+           1       1.00      0.87      0.93      1785
+
+   micro avg       0.93      0.93      0.93      3444
+   macro avg       0.94      0.94      0.93      3444
+weighted avg       0.94      0.93      0.93      3444
+ samples avg       0.93      0.93      0.93      3444
+
+
+
+----ConvKB: CiteSeer----
+Training Time: 211.0229525566101 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.93
+1: 	 0.92 		 0.93
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.93      1659
+           1       1.00      0.85      0.92      1785
+
+   micro avg       0.92      0.92      0.92      3444
+   macro avg       0.93      0.93      0.92      3444
+weighted avg       0.93      0.92      0.92      3444
+ samples avg       0.92      0.92      0.92      3444
+
+
+
+----DistMult: CiteSeer----
+Training Time: 28.430399417877197 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.94 		 0.94
+1: 	 0.94 		 0.94
+              precision    recall  f1-score   support
+
+           0       0.89      1.00      0.94      1659
+           1       1.00      0.88      0.94      1785
+
+   micro avg       0.94      0.94      0.94      3444
+   macro avg       0.94      0.94      0.94      3444
+weighted avg       0.95      0.94      0.94      3444
+ samples avg       0.94      0.94      0.94      3444
+
+
+
+----HolE: CiteSeer----
+Training Time: 53.07584238052368 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.85 		 0.85
+1: 	 0.85 		 0.85
+              precision    recall  f1-score   support
+
+           0       0.95      0.73      0.82      1659
+           1       0.79      0.96      0.87      1785
+
+   micro avg       0.85      0.85      0.85      3444
+   macro avg       0.87      0.85      0.85      3444
+weighted avg       0.87      0.85      0.85      3444
+ samples avg       0.85      0.85      0.85      3444
+
+
+
+----RandomBaseline: CiteSeer----
+Training Time: 0.531627893447876 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.52 		 0.50
+1: 	 0.52 		 0.50
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1659
+           1       0.52      1.00      0.68      1785
+
+   micro avg       0.52      0.52      0.52      3444
+   macro avg       0.26      0.50      0.34      3444
+weighted avg       0.27      0.52      0.35      3444
+ samples avg       0.52      0.52      0.52      3444
+
+
+
+----ComplEx: Zachary-Karate----
+Training Time: 8.605732202529907 seconds
+class 	 accuracy 	 roc_score
+0: 	 1.00 		 1.00
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        26
+
+   micro avg       1.00      1.00      1.00        44
+   macro avg       1.00      1.00      1.00        44
+weighted avg       1.00      1.00      1.00        44
+ samples avg       1.00      1.00      1.00        44
+
+
+
+----ConvKB: Zachary-Karate----
+
+
+----ConvKB: Zachary-Karate----
+
+
+----DistMult: Zachary-Karate----
+Training Time: 6.386942386627197 seconds
+class 	 accuracy 	 roc_score
+0: 	 1.00 		 1.00
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        26
+
+   micro avg       1.00      1.00      1.00        44
+   macro avg       1.00      1.00      1.00        44
+weighted avg       1.00      1.00      1.00        44
+ samples avg       1.00      1.00      1.00        44
+
+
+
+----HolE: Zachary-Karate----
+Training Time: 8.910153150558472 seconds
+class 	 accuracy 	 roc_score
+0: 	 1.00 		 1.00
+1: 	 1.00 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        18
+           1       1.00      1.00      1.00        26
+
+   micro avg       1.00      1.00      1.00        44
+   macro avg       1.00      1.00      1.00        44
+weighted avg       1.00      1.00      1.00        44
+ samples avg       1.00      1.00      1.00        44
+
+
+
+----RandomBaseline: Zachary-Karate----
+Training Time: 0.694143533706665 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.59 		 0.50
+1: 	 0.59 		 0.50
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        18
+           1       0.59      1.00      0.74        26
+
+   micro avg       0.59      0.59      0.59        44
+   macro avg       0.30      0.50      0.37        44
+weighted avg       0.35      0.59      0.44        44
+ samples avg       0.59      0.59      0.59        44
+
+
+
+----ComplEx: Internet-Industry-Partnerships----
+Training Time: 9.11859941482544 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.85 		 0.90
+1: 	 0.85 		 0.90
+              precision    recall  f1-score   support
+
+           0       0.66      1.00      0.79       107
+           1       1.00      0.79      0.88       271
+
+   micro avg       0.85      0.85      0.85       378
+   macro avg       0.83      0.90      0.84       378
+weighted avg       0.90      0.85      0.86       378
+ samples avg       0.85      0.85      0.85       378
+
+
+
+----ConvKB: Internet-Industry-Partnerships----
+Training Time: 28.849131107330322 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.85 		 0.90
+1: 	 0.85 		 0.90
+              precision    recall  f1-score   support
+
+           0       0.66      1.00      0.79       107
+           1       1.00      0.79      0.88       271
+
+   micro avg       0.85      0.85      0.85       378
+   macro avg       0.83      0.90      0.84       378
+weighted avg       0.90      0.85      0.86       378
+ samples avg       0.85      0.85      0.85       378
+
+
+
+----DistMult: Internet-Industry-Partnerships----
+Training Time: 6.363971471786499 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.86 		 0.90
+1: 	 0.86 		 0.90
+              precision    recall  f1-score   support
+
+           0       0.66      1.00      0.80       107
+           1       1.00      0.80      0.89       271
+
+   micro avg       0.86      0.86      0.86       378
+   macro avg       0.83      0.90      0.84       378
+weighted avg       0.91      0.86      0.86       378
+ samples avg       0.86      0.86      0.86       378
+
+
+
+----HolE: Internet-Industry-Partnerships----
+Training Time: 9.762874603271484 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.88 		 0.85
+1: 	 0.88 		 0.85
+              precision    recall  f1-score   support
+
+           0       0.77      0.80      0.79       107
+           1       0.92      0.90      0.91       271
+
+   micro avg       0.88      0.88      0.88       378
+   macro avg       0.84      0.85      0.85       378
+weighted avg       0.88      0.88      0.88       378
+ samples avg       0.88      0.88      0.88       378
+
+
+
+----RandomBaseline: Internet-Industry-Partnerships----
+Training Time: 0.5846850872039795 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.72 		 0.50
+1: 	 0.72 		 0.50
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       107
+           1       0.72      1.00      0.84       271
+
+   micro avg       0.72      0.72      0.72       378
+   macro avg       0.36      0.50      0.42       378
+weighted avg       0.51      0.72      0.60       378
+ samples avg       0.72      0.72      0.72       378
+
+
+
+----RLVECN_Node_Clsftn: Washington-WebKB----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+Training Time: 5150.741451740265 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.07; Accuracy: 0.95; Cat. Accuracy: 0.95
+VALIDATION --- Cat. CrossEnt.: 0.73; Accuracy: 0.90; Cat. Accuracy: 0.90
+class 	 accuracy 	 roc_score
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+Training Time: 5161.032317638397 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.07; Accuracy: 0.95; Cat. Accuracy: 0.95
+VALIDATION --- Cat. CrossEnt.: 0.68; Accuracy: 0.90; Cat. Accuracy: 0.90
+class 	 accuracy 	 roc_score
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+Training Time: 5139.868561506271 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.07; Accuracy: 0.95; Cat. Accuracy: 0.95
+VALIDATION --- Cat. CrossEnt.: 0.69; Accuracy: 0.90; Cat. Accuracy: 0.90
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.92
+1: 	 0.92 		 0.92
+2: 	 0.94 		 0.93
+3: 	 0.97 		 0.93
+              precision    recall  f1-score   support
+
+           0       0.87      0.82      0.84      9989
+           1       0.92      0.91      0.92     33962
+           2       0.88      0.88      0.88     16214
+           3       0.85      0.83      0.84      6609
+
+   micro avg       0.90      0.88      0.89     66774
+   macro avg       0.88      0.86      0.87     66774
+weighted avg       0.90      0.88      0.89     66774
+ samples avg       0.87      0.88      0.88     66774
+
+
+
+----RLVECN_Node_Clsftn: Pubmed-Diabetes----
+Training Time: 1363.6506361961365 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.13; Accuracy: 0.92; Cat. Accuracy: 0.92
+VALIDATION --- Cat. CrossEnt.: 0.97; Accuracy: 0.82; Cat. Accuracy: 0.82
+class 	 accuracy 	 roc_score
+0: 	 0.88 		 0.83
+1: 	 0.85 		 0.87
+2: 	 0.89 		 0.92
+              precision    recall  f1-score   support
+
+           0       0.69      0.66      0.67      3300
+           1       0.82      0.82      0.82      7715
+           2       0.85      0.87      0.86      7170
+
+   micro avg       0.81      0.81      0.81     18185
+   macro avg       0.78      0.79      0.79     18185
+weighted avg       0.81      0.81      0.81     18185
+ samples avg       0.80      0.81      0.80     18185
+
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+
+
+----RLVECN_Node_Clsftn: Facebook-Page2Page----
+Training Time: 5620.315160989761 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.32; Accuracy: 0.93; Cat. Accuracy: 0.93
+VALIDATION --- Cat. CrossEnt.: 0.42; Accuracy: 0.91; Cat. Accuracy: 0.91
+class 	 accuracy 	 roc_score
+0: 	 0.96 		 0.97
+1: 	 0.90 		 0.97
+2: 	 0.94 		 0.98
+3: 	 0.97 		 0.98
+              precision    recall  f1-score   support
+
+           0       0.87      0.84      0.85      9989
+           1       0.95      0.85      0.90     33962
+           2       0.91      0.85      0.88     16214
+           3       0.87      0.86      0.86      6609
+
+   micro avg       0.92      0.85      0.88     66774
+   macro avg       0.90      0.85      0.87     66774
+weighted avg       0.92      0.85      0.88     66774
+ samples avg       0.84      0.85      0.84     66774
+
+
+
+----RLVECN_Node_Clsftn: Pubmed-Diabetes----
+Training Time: 1446.2793083190918 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.44; Accuracy: 0.88; Cat. Accuracy: 0.88
+VALIDATION --- Cat. CrossEnt.: 0.61; Accuracy: 0.83; Cat. Accuracy: 0.83
+class 	 accuracy 	 roc_score
+0: 	 0.89 		 0.92
+1: 	 0.88 		 0.94
+2: 	 0.90 		 0.95
+              precision    recall  f1-score   support
+
+           0       0.76      0.60      0.67      3300
+           1       0.83      0.88      0.86      7715
+           2       0.84      0.91      0.87      7170
+
+   micro avg       0.83      0.84      0.84     18185
+   macro avg       0.81      0.80      0.80     18185
+weighted avg       0.82      0.84      0.83     18185
+ samples avg       0.83      0.84      0.83     18185
+
+
+
+----RLVECN_Node_Clsftn: Terrorists-Relation----
+Training Time: 286.3554198741913 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.46; Accuracy: 0.95; Cat. Accuracy: 0.95
+VALIDATION --- Cat. CrossEnt.: 0.57; Accuracy: 0.89; Cat. Accuracy: 0.89
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.97
+1: 	 0.98 		 1.00
+2: 	 0.89 		 0.85
+3: 	 0.99 		 1.00
+              precision    recall  f1-score   support
+
+           0       0.91      0.96      0.94      1706
+           1       0.91      0.97      0.94       491
+           2       0.46      0.42      0.44       319
+           3       1.00      0.97      0.98       561
+
+   micro avg       0.89      0.91      0.90      3077
+   macro avg       0.82      0.83      0.82      3077
+weighted avg       0.88      0.91      0.89      3077
+ samples avg       0.89      0.91      0.90      3077
+
+
+
+----ComplEx: Facebook-Page2Page----
+Training Time: 336.6466782093048 seconds
+class 	 accuracy 	 roc_score
+
+
+----ComplEx: Facebook-Page2Page----
+Training Time: 328.75109696388245 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.97
+1: 	 0.95 		 0.97
+              precision    recall  f1-score   support
+
+           0       0.76      1.00      0.86     12711
+           1       1.00      0.94      0.97     66458
+
+   micro avg       0.95      0.95      0.95     79169
+   macro avg       0.88      0.97      0.91     79169
+weighted avg       0.96      0.95      0.95     79169
+ samples avg       0.95      0.95      0.95     79169
+
+
+
+----ConvKB: Facebook-Page2Page----
+Training Time: 1233.0519268512726 seconds
+
+
+----ComplEx: Facebook-Page2Page----
+Training Time: 839.9050459861755 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.97
+1: 	 0.95 		 0.97
+              precision    recall  f1-score   support
+
+           0       0.76      1.00      0.86     12711
+           1       1.00      0.94      0.97     66458
+
+   micro avg       0.95      0.95      0.95     79169
+   macro avg       0.88      0.97      0.91     79169
+weighted avg       0.96      0.95      0.95     79169
+ samples avg       0.95      0.95      0.95     79169
+
+
+
+----RLVECN_Link_Pred: Facebook-Page2Page----
+Training Time: 7040.816864967346 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.14; Accuracy: 0.98; Cat. Accuracy: 0.98
+VALIDATION --- Cat. CrossEnt.: 0.16; Accuracy: 0.98; Cat. Accuracy: 0.98
+class 	 accuracy 	 roc_score
+0: 	 0.97 		 0.99
+1: 	 0.97 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      0.80      0.89     13479
+           1       1.00      0.96      0.98     66774
+
+   micro avg       1.00      0.94      0.97     80253
+   macro avg       1.00      0.88      0.94     80253
+weighted avg       1.00      0.94      0.96     80253
+ samples avg       0.94      0.94      0.94     80253
+
+
+
+----RLVECN_Link_Pred: PubMed-Diabetes----
+Training Time: 2116.5696544647217 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.11; Accuracy: 1.00; Cat. Accuracy: 1.00
+VALIDATION --- Cat. CrossEnt.: 0.12; Accuracy: 0.99; Cat. Accuracy: 0.99
+class 	 accuracy 	 roc_score
+0: 	 0.99 		 1.00
+1: 	 0.99 		 1.00
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99     11829
+           1       0.99      1.00      0.99     18185
+
+   micro avg       0.99      0.99      0.99     30014
+   macro avg       0.99      0.99      0.99     30014
+weighted avg       0.99      0.99      0.99     30014
+ samples avg       0.99      0.99      0.99     30014
+
+
+
+----RLVECN_Link_Pred: Terrorists-Relation----
+Training Time: 308.2888083457947 seconds
+
+TRAINING --- Cat. CrossEnt.: 0.36; Accuracy: 0.94; Cat. Accuracy: 0.94
+VALIDATION --- Cat. CrossEnt.: 0.35; Accuracy: 0.94; Cat. Accuracy: 0.94
+class 	 accuracy 	 roc_score
+0: 	 0.94 		 0.98
+1: 	 0.95 		 0.98
+              precision    recall  f1-score   support
+
+           0       0.72      0.91      0.80       498
+           1       0.99      0.95      0.97      3103
+
+   micro avg       0.94      0.95      0.94      3601
+   macro avg       0.85      0.93      0.89      3601
+weighted avg       0.95      0.95      0.95      3601
+ samples avg       0.94      0.95      0.94      3601
+
+
+
+----ComplEx: PubMed-Diabetes----
+Training Time: 188.23390579223633 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.93 		 0.95
+1: 	 0.93 		 0.95
+              precision    recall  f1-score   support
+
+           0       0.84      1.00      0.91      9375
+           1       1.00      0.89      0.94     17255
+
+   micro avg       0.93      0.93      0.93     26630
+   macro avg       0.92      0.95      0.93     26630
+weighted avg       0.94      0.93      0.93     26630
+ samples avg       0.93      0.93      0.93     26630
+
+
+
+----ConvKB: PubMed-Diabetes----
+Training Time: 442.92759108543396 seconds
+
+
+----ComplEx: Terrorists-Relation----
+Training Time: 60.818655252456665 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.92 		 0.95
+1: 	 0.92 		 0.95
+              precision    recall  f1-score   support
+
+           0       0.62      1.00      0.77       498
+           1       1.00      0.90      0.95      3103
+
+   micro avg       0.92      0.92      0.92      3601
+   macro avg       0.81      0.95      0.86      3601
+weighted avg       0.95      0.92      0.92      3601
+ samples avg       0.92      0.92      0.92      3601
+
+
+
+----ConvKB: Terrorists-Relation----
+Training Time: 144.63125491142273 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.89 		 0.93
+1: 	 0.89 		 0.93
+              precision    recall  f1-score   support
+
+           0       0.55      1.00      0.71       498
+           1       1.00      0.87      0.93      3103
+
+   micro avg       0.89      0.89      0.89      3601
+   macro avg       0.77      0.93      0.82      3601
+weighted avg       0.94      0.89      0.90      3601
+ samples avg       0.89      0.89      0.89      3601
+
+
+
+----DistMult: Terrorists-Relation----
+Training Time: 40.410316467285156 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.95 		 0.97
+1: 	 0.95 		 0.97
+              precision    recall  f1-score   support
+
+           0       0.73      1.00      0.84       498
+           1       1.00      0.94      0.97      3103
+
+   micro avg       0.95      0.95      0.95      3601
+   macro avg       0.86      0.97      0.91      3601
+weighted avg       0.96      0.95      0.95      3601
+ samples avg       0.95      0.95      0.95      3601
+
+
+
+----HolE: Terrorists-Relation----
+Training Time: 65.47129535675049 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.98 		 0.99
+1: 	 0.98 		 0.99
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95       498
+           1       1.00      0.98      0.99      3103
+
+   micro avg       0.98      0.98      0.98      3601
+   macro avg       0.95      0.99      0.97      3601
+weighted avg       0.99      0.98      0.98      3601
+ samples avg       0.98      0.98      0.98      3601
+
+
+
+----RandomBaseline: Terrorists-Relation----
+Training Time: 9.18523907661438 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.86 		 0.50
+1: 	 0.86 		 0.50
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       498
+           1       0.86      1.00      0.93      3103
+
+   micro avg       0.86      0.86      0.86      3601
+   macro avg       0.43      0.50      0.46      3601
+weighted avg       0.74      0.86      0.80      3601
+ samples avg       0.86      0.86      0.86      3601
+
+
+
+----ConvKB: PubMed-Diabetes----
+
+
+----ConvKB: PubMed-Diabetes----
+
+
+----DistMult: PubMed-Diabetes----
+Training Time: 339.9798266887665 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.94 		 0.96
+1: 	 0.94 		 0.96
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.92      9375
+           1       1.00      0.91      0.95     17255
+
+   micro avg       0.94      0.94      0.94     26630
+   macro avg       0.93      0.96      0.94     26630
+weighted avg       0.95      0.94      0.94     26630
+ samples avg       0.94      0.94      0.94     26630
+
+
+
+----HolE: PubMed-Diabetes----
+Training Time: 882.1868357658386 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.96 		 0.95
+1: 	 0.96 		 0.95
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.94      9375
+           1       0.96      0.98      0.97     17255
+
+   micro avg       0.96      0.96      0.96     26630
+   macro avg       0.96      0.95      0.95     26630
+weighted avg       0.96      0.96      0.96     26630
+ samples avg       0.96      0.96      0.96     26630
+
+
+
+----ConvKBE: PubMed-Diabetes----
+
+
+----ConvKBE: PubMed-Diabetes----
+
+
+----ConvKB: PubMed-Diabetes----
+
+
+----ConvKB: PubMed-Diabetes----
+
+
+----DistMult: Facebook-Page2Page----
+Training Time: 976.0788857936859 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.96 		 0.98
+1: 	 0.96 		 0.98
+              precision    recall  f1-score   support
+
+           0       0.80      1.00      0.89     12711
+           1       1.00      0.95      0.97     66458
+
+   micro avg       0.96      0.96      0.96     79169
+   macro avg       0.90      0.98      0.93     79169
+weighted avg       0.97      0.96      0.96     79169
+ samples avg       0.96      0.96      0.96     79169
+
+
+
+----HolE: Facebook-Page2Page----
+Training Time: 2696.53399515152 seconds
+class 	 accuracy 	 roc_score
+0: 	 0.97 		 0.98
+1: 	 0.97 		 0.98
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92     12711
+           1       1.00      0.97      0.98     66458
+
+   micro avg       0.97      0.97      0.97     79169
+   macro avg       0.92      0.98      0.95     79169
+weighted avg       0.98      0.97      0.97     79169
+ samples avg       0.97      0.97      0.97     79169
+
